@@ -1,0 +1,4 @@
+tensorflow
+opencv-python
+numpy
+protobuf==5.29.5
