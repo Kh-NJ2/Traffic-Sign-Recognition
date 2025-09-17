@@ -5,7 +5,7 @@ This project contains the complete pipeline for building, training, and testing 
 ---
 
 ## Features
-
+ 
 * **High Accuracy**: Achieves over 99% accuracy on the test set.
 * **Data Augmentation**: Utilizes data augmentation techniques to improve model robustness and prevent overfitting.
 * **Modular Scripts**: Includes separate notebooks/scripts for both training the model from scratch and for running predictions on new images.
